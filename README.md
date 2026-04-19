@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaibdevs&label=Profile%20views&color=22c55e&style=flat" alt="vaibdevs" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav-Ct&label=Profile%20views&color=22c55e&style=flat" alt="Vaibhav-Ct" />
 </p>
 
 - 🔭 Currently working on **Global Workspace Migration @ Clear**
@@ -35,13 +35,13 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibdevs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vaibdevs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhav-Ct&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vaibhav-Ct" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibdevs&show_icons=true&locale=en&theme=tokyonight" alt="vaibdevs" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Ct&show_icons=true&locale=en&theme=tokyonight" alt="Vaibhav-Ct" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibdevs&theme=tokyonight" alt="vaibdevs" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Ct&theme=tokyonight" alt="Vaibhav-Ct" />
 </p>
